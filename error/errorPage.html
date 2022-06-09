@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error page</title>
+    <link rel="stylesheet" href="errorPage.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <link rel="shortcut icon" type="image/x-icon" href="aiImg.png">
+</head>
+
+<body>
+    <img src="aiImg.png">
+
+    <div class="container">
+        <div class="number">404</div>
+        <div class="title">الصفحة غير متوفرة</div>
+        <div class="desc">سيتم توفير باقي الامتحان <br>علي الموقع قريبا ...</div>
+
+        <a class="btn" href="../index.html">الصفحة الرئيسية</a>
+
+    </div>
+    <script type="text/javascript">
+        //CLOSE website
+        //secure website
+
+        document.addEventListener('contextmenu', function(e) {
+            'use strict';
+            e.preventDefault();
+            console.log('no click');
+        });
+        document.onkeydown = e => {
+            if (e.key == "F12") {
+                return false
+            }
+            if (e.key == "f12") {
+                return false
+            }
+            if (e.ctrlKey && e.key == "u") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "U") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "c") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "C") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "v") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "V") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "a") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "A") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "s") {
+                return false
+
+            }
+            if (e.ctrlKey && e.key == "S") {
+                return false
+
+            }
+        }
+    </script>
+</body>

@@ -1,0 +1,170 @@
+[{
+        "title": "بروتوكول يمكن المستخدم من انزال وتحميل البيانات ",
+        "answer_1": " http ",
+        "answer_2": " ftp ",
+        "answer_3": " ip ",
+        "answer_4": " tcp/ip ",
+        "right_answer": " tcp/ip "
+    },
+    {
+        "title": "كل مايلي من مكونات شبكات الحاسب ماعدا ",
+        "answer_1": "اجهزه الحاسبات ",
+        "answer_2": "اجهزه الربط ",
+        "answer_3": "الملفات",
+        "answer_4": " برامج التطبيقات ",
+        "right_answer": " برامج التطبيقات "
+    },
+    {
+        "title": "من متصفحات الويب",
+        "answer_1": " net space ",
+        "answer_2": " yahoo ",
+        "answer_3": "outlook",
+        "answer_4": "All Answers Is Right",
+        "right_answer": "yahoo"
+    },
+    {
+        "title": "تتصل مصر بالانترنت عن طريق كابلات بحريه بينها وبين فرنسا ويحصل المجلس الاعلي للجامعات علي مجموعه عناوين منها ",
+        "answer_1": " class A ",
+        "answer_2": " class C ",
+        "answer_3": " class B ",
+        "answer_4": "class D",
+        "right_answer": " class C "
+    },
+    {
+        "title": "عباره عن شبكه انترنت ولا يمكن الوصل اليها جزئيا من خارج المنظمه ولكن لاشخاص مرخص لهم فقط ",
+        "answer_1": "extrant",
+        "answer_2": "information network",
+        "answer_3": "internet",
+        "answer_4": "All Solutions Is Wrong",
+        "right_answer": "extrant"
+    },
+    {
+        "title": "كل مايلي من طرق الاتصال بالانترنت ماعدا ",
+        "answer_1": "modem",
+        "answer_2": "dial up",
+        "answer_3": "leased line ",
+        "answer_4": "All answer is correct",
+        "right_answer": "modem"
+    },
+    {
+        "title": " نظام يستخدم في انشاء شبكه في حاله اذا كان عدد الاجهزه لايتعدي 25 ",
+        "answer_1": "نظام الخادم  العميل ",
+        "answer_2": "نظام نقل الملفات ",
+        "answer_3": "نظام الند للند ",
+        "answer_4": "<!DOCTYPE html>",
+        "right_answer": "نظام الند للند "
+    },
+    {
+        "title": "يشير الجال .com",
+        "answer_1": "لاتوجد اجابه صحيحه ",
+        "answer_2": "شركه تجاريه ",
+        "answer_3": "منظمه تعليميه ",
+        "answer_4": "غير هادفه للربح",
+        "right_answer": "شركه تجاريه "
+    },
+    {
+        "title": "من مخرجات كارت connectors ويعمل مع الكابلات المحوريه الرفيعه للشبكه",
+        "answer_1": "ftb",
+        "answer_2": "bnc",
+        "answer_3": "ibx",
+        "answer_4": "All Is Right",
+        "right_answer": "bnc"
+    },
+    {
+        "title": " متصفح نصي ويستخدم لعرض النصوص فقط ",
+        "answer_1": "notepad",
+        "answer_2": "netspace",
+        "answer_3": "firefox",
+        "answer_4": "iynx",
+        "right_answer": "firefox"
+    },
+    {
+        "title": " <li> يستخدم ل",
+        "answer_1": "لاضافه عنصر داخل القائمه المتسلسله او غير المتسلسله",
+        "answer_2": "لاضافه عنصر داخل قائمه غير المتسلسله",
+        "answer_3": " لاضافه عنصر داخل قائمه التعريف ",
+        "answer_4": "لاضافه عنصر داخل القائمه المتسلسله   فقط",
+        "right_answer": "لاضافه عنصر داخل القائمه المتسلسله او غير المتسلسله"
+    },
+    {
+        "title": "لجعل الصوت في الخلفيه نستخدم ",
+        "answer_1": "<sound src>",
+        "answer_2": "<h1>",
+        "answer_3": "<img>",
+        "answer_4": "<bgsound>",
+        "right_answer": "<bgsound>"
+    },
+    {
+        "title": "ماهو تنفيذ الكود التالي <font face='arial, ' size='2' color'#000ff>'",
+        "answer_1": " خط النص الاساسي من نوع system ui وبحجم4 وبالون الازرق",
+        "answer_2": " خط النص الاساسي من نوع Arial وبحجم2 وبالون الاحمر",
+        "answer_3": " خط النص الاساسي من نوع Arial وبحجم2 وبالون الازرق",
+        "answer_4": " برامج التطبيقات ",
+        "right_answer": " خط النص الاساسي من نوع Arial وبحجم2 وبالون الازرق"
+    },
+    {
+        "title": "اكبر الخطوط في الheading",
+        "answer_1": "<h1>",
+        "answer_2": "<head>",
+        "answer_3": "<h2>",
+        "answer_4": "<h3>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "hyber text markup languague",
+        "answer_1": "HTML",
+        "answer_2": "Css",
+        "answer_3": "C++",
+        "answer_4": "Node.Js",
+        "right_answer": "HTML"
+    },
+    {
+        "title": "Cascading Style sheet هو اختصار ل",
+        "answer_1": "CSS",
+        "answer_2": "moudul",
+        "answer_3": "paper sheel",
+        "answer_4": "CS50",
+        "right_answer": "CSS"
+    },
+    {
+        "title": " 168.xxx.xxx.xxx",
+        "answer_1": "الفئه A",
+        "answer_2": "الفئه B",
+        "answer_3": "الفئه C",
+        "answer_4": "الفئه D",
+        "right_answer": "الفئه A"
+    },
+    {
+        "title": "لاغلاق الوسم يتم استخدام ",
+        "answer_1": "/",
+        "answer_2": "{}",
+        "answer_3": "#",
+        "answer_4": "<>",
+        "right_answer": "/"
+    },
+    {
+        "title": "يتم حفظ ملف ال html بامتداد",
+        "answer_1": ".html",
+        "answer_2": ".css",
+        "answer_3": ".js",
+        "answer_4": ".ajax",
+        "right_answer": ".html"
+    },
+    {
+        "title": "اي من الاكواد التاليه يستخدم لعمل METكعنوان للصفحه ",
+        "answer_1": "<html>MET</html>",
+        "answer_2": "<html><title>MET</title></html>",
+        "answer_3": "<title>MET</title>",
+        "answer_4": "جميع الاجابات صحيحه",
+        "right_answer": "<html><title>MET</title></html>"
+    },
+    {
+        "title": "من خصائص ال <body> لعمل خلفيه ",
+        "answer_1": "bgcolor",
+        "answer_2": "background",
+        "answer_3": "img",
+        "answer_4": "title",
+        "right_answer": "bgcolor"
+    }
+
+]
