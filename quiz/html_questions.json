@@ -1,169 +1,157 @@
 [{
-        "title": " يقوك بتحويل المعلومات الرقميه من الكمبيوتر الي صوت تفهمه السماعات ",
-        "answer_1": " المايكروفون ",
-        "answer_2": " كارت الشبكه ",
-        "answer_3": " معالج ADC ",
-        "answer_4": "معالج DAC ",
-        "right_answer": "معالج DAC "
+        "title": "تقوم بمراجعه المواقع الجديده اللتي تم انشاؤها واعاده ترتيب هذه المواقع في قاعده البيانات",
+        "answer_1": "مستعرض الويب ",
+        "answer_2": " محركات البحث ",
+        "answer_3": " خادم الويب ",
+        "answer_4": " موقع الويب  ",
+        "right_answer": " محركات البحث "
     },
     {
-        "title": " خاصيه تستخدم مع <html>  <p> ",
-        "answer_1": " align ",
-        "answer_2": " Dir ",
-        "answer_3": " content",
-        "answer_4": "  hover ",
-        "right_answer": " Dir "
+        "title": " لجعل الخط سميك وتحته خط نستخدم ؟ ",
+        "answer_1": " <ib>",
+        "answer_2": "<li>",
+        "answer_3": "<B>",
+        "answer_4": "<B><U>",
+        "right_answer": "<B><U>"
     },
     {
-        "title": " <a name=   > يستخدم هذا الوسم في  ",
-        "answer_1": " عمل ارتباط تشعبي لصفحه ما  ",
-        "answer_2": " class بالجزء المراد تسميته  ",
-        "answer_3": " تسميه جزء داخل الصفحه باسم   ",
-        "answer_4": " جميع الاجابات صحيحه   ",
-        "right_answer": " تسميه جزء داخل الصفحه باسم   "
+        "title": "  168.154.xxx.xxx يمثل الفئه ",
+        "answer_1": "A",
+        "answer_2": "C",
+        "answer_3": "B",
+        "answer_4": "D",
+        "right_answer": "B"
     },
     {
-        "title": " وسم ليس له نهايه وله بدايه فقط  ",
-        "answer_1": " <body> ",
-        "answer_2": " <li> ",
-        "answer_3": " <br>",
-        "answer_4": " <embed>  ",
-        "right_answer": " <br>"
+        "title": " لتقليل حجم النص عن الحجم السابق نستخدم في خاصيه Size ",
+        "answer_1": "1",
+        "answer_2": "-2",
+        "answer_3": "-1",
+        "answer_4": "++",
+        "right_answer": "-1"
     },
     {
-        "title": " يمكن الاتصال بالنترنت باستخدام  ",
-        "answer_1": " خط تليفون عادي  ",
-        "answer_2": " ADSL ",
-        "answer_3": "VADSL ",
+        "title": " من الخدمات الرئيسيه للانترنت ",
+        "answer_1": " البروتوكولات",
+        "answer_2": "المراقبه",
+        "answer_3": " نقل الملفات ",
+        "answer_4": " مشاركه الطابعات  ",
+        "right_answer": " نقل الملفات "
+    },
+    {
+        "title": " يستخدم وسم  ال <DL> في  ",
+        "answer_1": " اضافه عنصر داخل قائمه التعريف  ",
+        "answer_2": " لتعريف قائمه تعريفات  ",
+        "answer_3": " اضافه تعريف داخل قائمه التعريف  ",
         "answer_4": " جميع الاجابات صحيحه  ",
-        "right_answer": " جميع الاجابات صحيحه  "
+        "right_answer": " لتعريف قائمه تعريفات  "
     },
     {
-        "title": " متصفحات نصيه وتستخدم لعرض النصوص والصور  ",
-        "answer_1": " Netscape navigator ",
-        "answer_2": " Internet explorer & Netscape navigator ",
-        "answer_3": "Internet explorer ",
-        "answer_4": " Opera mini Browser  ",
-        "right_answer": " Internet explorer & Netscape navigator "
+        "title": " ماهو HTTP ",
+        "answer_1": " يقوم بتقسيم البيانات متغيره  ",
+        "answer_2": " بروتوكول لتبديل المعلومات بين خادم الويب والمتصفح  ",
+        "answer_3": " برتوكول للتحكم في نقل الملفات  ",
+        "answer_4": " بريد الكتروني ",
+        "right_answer": " بروتوكول لتبديل المعلومات بين خادم الويب والمتصفح  "
     },
     {
-        "title": "  في حاله اذا كان مجال الدومين للعنوان   Edu  ",
-        "answer_1": "  منظمه غير قابله للربح   ",
-        "answer_2": "  منظمه حكوميه  ",
-        "answer_3": "  منظمه تجاريه   ",
-        "answer_4": "  منظمه تعليميه  ",
-        "right_answer": "  منظمه تعليميه  "
+        "title": " يستخدم وسم ال <meta>  ",
+        "answer_1": " <body> ",
+        "answer_2": " <title> ",
+        "answer_3": "<script>",
+        "answer_4": "<head>",
+        "right_answer": "<head>"
     },
     {
-        "title": " من الملفات الصوتيه والتي تتميز بجودتها ولكن تستهلك مساحه تخزينيه عاليه  ",
-        "answer_1": " VLC ",
-        "answer_2": " mp4 ",
-        "answer_3": " Flan",
-        "answer_4": "  WAV ",
-        "right_answer": "  WAV "
+        "title": "يحتوي وسم الfont \n علي خاصيه name",
+        "answer_1": "true ",
+        "answer_2": "false",
+        "right_answer": "false"
     },
     {
-        "title": " لجعل المحاذاه العموديه داخل خليه الجدول تاخذ قيمه top نستخدم خاصيه   ",
-        "answer_1": " align ",
-        "answer_2": " cellspace ",
-        "answer_3": " Valign",
-        "answer_4": " rowspan  ",
-        "right_answer": " Valign"
+        "title": " من الخدمات الرئيسيه للانترنت  ",
+        "answer_1": " sharing printer",
+        "answer_2": "Hosting",
+        "answer_3": " no answer avilable ",
+        "answer_4": " E-mail",
+        "right_answer": " E-mail"
     },
     {
-        "title": " جميع مايلي من امثله التطبيقات الحيه للوسائط المتعدده التعليميه اليوم ماعدا  ",
-        "answer_1": " عقد المؤتمرات بواسطه الكمبيوتر  ",
-        "answer_2": " مؤتمرات الفيديو ",
-        "answer_3": " المؤتمرات الصوتيه  ",
-        "answer_4": "  عقد المقابلات الشخصيه ",
-        "right_answer": "  عقد المقابلات الشخصيه "
+        "title": " بفرض وجود شركه بها 3 اقسام وتريد انشاء شبكه داخليه فما هو جهاز الربط الذي يستخدم في هذه الحاله  ",
+        "answer_1": " HUE",
+        "answer_2": "ROUTER",
+        "answer_3": "BRIDGE",
+        "answer_4": "HUB",
+        "right_answer": "HUB"
     },
     {
-        "title": " متصفحات نصيه تستخدم لعرض النصوص فقط ",
-        "answer_1": " Netscape navigator ",
-        "answer_2": " متصفح lynx ",
-        "answer_3": "Internet explorer ",
-        "answer_4": " Opera mini Browser  ",
-        "right_answer": " متصفح lynx "
+        "title": " هناك شبكات تعمل بدون خادم  ",
+        "answer_1": "False",
+        "answer_2": "True",
+        "right_answer": "True"
     },
     {
-        "title": " لجعل الصوت يعمل كخلفيه للمستند نستخدم  ",
-        "answer_1": " <sound> ",
-        "answer_2": " <bgsound> ",
-        "answer_3": " autoplay",
-        "answer_4": " startTime  ",
-        "right_answer": " <bgsound> "
+        "title": " يمكن ان نستخدم الصوره للنص التشعبي  ",
+        "answer_1": "Ture",
+        "answer_2": "False",
+        "right_answer": "Ture"
     },
     {
-        "title": " لادراج الصوت داخل صفحه الويب نستخدم؟ ",
-        "answer_1": " <sound> ",
-        "answer_2": " <Embed> ",
-        "answer_3": " <bgsound>",
-        "answer_4": " <bgcolor>  ",
-        "right_answer": " <Embed> "
+        "title": " لجعل النص متوسط ومائل ",
+        "answer_1": "<center> lorem ipsum</center>",
+        "answer_2": "<center>lorem ipsum<i>",
+        "answer_3": "<center><i>lorem</i></center>",
+        "answer_4": "No Correct answer",
+        "right_answer": "<center><i>lorem</i></center>"
     },
     {
-        "title": " جهاز يستخدم لربط مجموعه من الحاسبات موجوده في شبكه محليه LAN \nمع مجموعه اخري في شبكه محليه اخري ويكون ذلك داخل شبكه موسعه  ",
+        "title": " تستخدم الخاصيه name \n داخل ال <a> ",
+        "answer_1": "false",
+        "answer_2": "true",
+        "right_answer": "true"
+    },
+    {
+        "title": " RJ45 من مخارج كارت الشبكه \n ويستخدم مع الكابلات المجدولخ \n UTP ",
+        "answer_1": "False",
+        "answer_2": "True",
+        "right_answer": "True"
+    },
+    {
+        "title": " من صفات التجاره الالكترونيه  ",
+        "answer_1": " الاعلان عن السلع والبضائع  ",
+        "answer_2": " التفاوض والتعامل بين البائع والمشتري  ",
+        "answer_3": " لايوجد استخدام للوثائق الورقيه المتبادله ",
+        "answer_4": " ابرام العقود وعقود الصفقات ",
+        "right_answer": " لايوجد استخدام للوثائق الورقيه المتبادله "
+    },
+    {
+        "title": " اذا كان المجال الرئيسي هو ORG \n فذلك يشير الي  ",
+        "answer_1": " منظمه تجاريه  ",
+        "answer_2": " البث المباشر  ",
+        "answer_3": " منظه غير قابله للربح  ",
+        "answer_4": " منظمه ذكاء اصطناعي  ",
+        "right_answer": " منظه غير قابله للربح  "
+    },
+    {
+        "title": " عيوب نظام Peer To Peer \n هو ارتفاع التكلفه  ",
+        "answer_1": "True",
+        "answer_2": "False",
+        "right_answer": "False"
+    },
+    {
+        "title": " يستخدم الوسم <script src> \n لكتابه اكواد جافاسكريبت في صفحه الويب",
+        "answer_1": " True",
+        "answer_2": "False",
+        "right_answer": "False"
+    },
+    {
+        "title": "جهاز يستخدم لربط اجهزه الحاسب لتبادل البيانات وتكون عن طريق خط التليفون ؟",
         "answer_1": " Hub ",
-        "answer_2": " Router ",
-        "answer_3": " Bridge",
-        "answer_4": "  modem ",
-        "right_answer": " Router "
-    },
-    {
-        "title": " في حاله البحث عن الكلمتين معا داخل محركات البحث نستخدم المعامل المنطقي  ",
-        "answer_1": " Or  ",
-        "answer_2": " NAND ",
-        "answer_3": "NOR ",
-        "answer_4": " AND  ",
-        "right_answer": " AND  "
-    },
-    {
-        "title": " لتغيير لون النص من خلال وسم الbody \n نستخدم الخاصيه  ",
-        "answer_1": " color ",
-        "answer_2": " text ",
-        "answer_3": " style",
-        "answer_4": "  font ",
-        "right_answer": " text "
-    },
-    {
-        "title": " هو جهاز ذو امكانيات عاليه يساعد في التحكم في عمليه المشاركه للاجهزه والصلاحيات للمستخدمين داخل الشبكه ",
-        "answer_1": " clinet ",
-        "answer_2": " server ",
-        "answer_3": " hub",
-        "answer_4": "  Peer To Peer ",
-        "right_answer": " server "
-    },
-    {
-        "title": " تتضمن الوسائط المتعدده....... في العرض ",
-        "answer_1": " النص المكتوب مع الصوت المسموع  ",
-        "answer_2": " الصور الثابته والصور المتحركه  ",
-        "answer_3": " النص المكتوب مع الفيديو",
-        "answer_4": " جميع الاجابات صحيحه   ",
-        "right_answer": " جميع الاجابات صحيحه   "
-    },
-    {
-        "title": " من مخارج كارت الشبكه \n connectors \n ويستخدم مع الكابلات المحوريه الرفيعه  ",
-        "answer_1": " LPX ",
-        "answer_2": " BNC ",
-        "answer_3": " RG6 ",
-        "answer_4": " Netx  ",
-        "right_answer": " BNC "
-    },
-    {
-        "title": " امتداد ملف فيديو ابتكرته شركه \n Apple \n ويستخدم برنامج \n Quick Time لتشغيله ",
-        "answer_1": " AVI ",
-        "answer_2": " MOV ",
-        "answer_3": " FLV",
-        "answer_4": "  MP4 ",
-        "right_answer": " MOV "
-    },
-    {
-        "title": " جهاز يستخدم للربط بين شبكتين من شبكات الحاسب لتصبح شبكه اكبر  ",
-        "answer_1": " Github ",
-        "answer_2": " Bridge ",
-        "answer_3": " Router",
-        "answer_4": "  LAN ",
-        "right_answer": " Bridge "
+        "answer_2": " Modem",
+        "answer_3": " Bridge ",
+        "answer_4": " Nic ",
+        "right_answer": " Modem"
     }
+
+
 ]
