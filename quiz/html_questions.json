@@ -1,170 +1,169 @@
 [{
-        "title": "بروتوكول يمكن المستخدم من انزال وتحميل البيانات ",
-        "answer_1": " http ",
-        "answer_2": " ftp ",
-        "answer_3": " ip ",
-        "answer_4": " tcp/ip ",
-        "right_answer": " tcp/ip "
+        "title": " يقوك بتحويل المعلومات الرقميه من الكمبيوتر الي صوت تفهمه السماعات ",
+        "answer_1": " المايكروفون ",
+        "answer_2": " كارت الشبكه ",
+        "answer_3": " معالج ADC ",
+        "answer_4": "معالج DAC ",
+        "right_answer": "معالج DAC "
     },
     {
-        "title": "كل مايلي من مكونات شبكات الحاسب ماعدا ",
-        "answer_1": "اجهزه الحاسبات ",
-        "answer_2": "اجهزه الربط ",
-        "answer_3": "الملفات",
-        "answer_4": " برامج التطبيقات ",
-        "right_answer": " برامج التطبيقات "
+        "title": " خاصيه تستخدم مع <html>  <p> ",
+        "answer_1": " align ",
+        "answer_2": " Dir ",
+        "answer_3": " content",
+        "answer_4": "  hover ",
+        "right_answer": " Dir "
     },
     {
-        "title": "من متصفحات الويب",
-        "answer_1": " net space ",
-        "answer_2": " yahoo ",
-        "answer_3": "outlook",
-        "answer_4": "All Answers Is Right",
-        "right_answer": "yahoo"
+        "title": " <a name=   > يستخدم هذا الوسم في  ",
+        "answer_1": " عمل ارتباط تشعبي لصفحه ما  ",
+        "answer_2": " class بالجزء المراد تسميته  ",
+        "answer_3": " تسميه جزء داخل الصفحه باسم   ",
+        "answer_4": " جميع الاجابات صحيحه   ",
+        "right_answer": " تسميه جزء داخل الصفحه باسم   "
     },
     {
-        "title": "تتصل مصر بالانترنت عن طريق كابلات بحريه بينها وبين فرنسا ويحصل المجلس الاعلي للجامعات علي مجموعه عناوين منها ",
-        "answer_1": " class A ",
-        "answer_2": " class C ",
-        "answer_3": " class B ",
-        "answer_4": "class D",
-        "right_answer": " class C "
+        "title": " وسم ليس له نهايه وله بدايه فقط  ",
+        "answer_1": " <body> ",
+        "answer_2": " <li> ",
+        "answer_3": " <br>",
+        "answer_4": " <embed>  ",
+        "right_answer": " <br>"
     },
     {
-        "title": "عباره عن شبكه انترنت ولا يمكن الوصل اليها جزئيا من خارج المنظمه ولكن لاشخاص مرخص لهم فقط ",
-        "answer_1": "extrant",
-        "answer_2": "information network",
-        "answer_3": "internet",
-        "answer_4": "All Solutions Is Wrong",
-        "right_answer": "extrant"
+        "title": " يمكن الاتصال بالنترنت باستخدام  ",
+        "answer_1": " خط تليفون عادي  ",
+        "answer_2": " ADSL ",
+        "answer_3": "VADSL ",
+        "answer_4": " جميع الاجابات صحيحه  ",
+        "right_answer": " جميع الاجابات صحيحه  "
     },
     {
-        "title": "كل مايلي من طرق الاتصال بالانترنت ماعدا ",
-        "answer_1": "modem",
-        "answer_2": "dial up",
-        "answer_3": "leased line ",
-        "answer_4": "All answer is correct",
-        "right_answer": "modem"
+        "title": " متصفحات نصيه وتستخدم لعرض النصوص والصور  ",
+        "answer_1": " Netscape navigator ",
+        "answer_2": " Internet explorer & Netscape navigator ",
+        "answer_3": "Internet explorer ",
+        "answer_4": " Opera mini Browser  ",
+        "right_answer": " Internet explorer & Netscape navigator "
     },
     {
-        "title": " نظام يستخدم في انشاء شبكه في حاله اذا كان عدد الاجهزه لايتعدي 25 ",
-        "answer_1": "نظام الخادم  العميل ",
-        "answer_2": "نظام نقل الملفات ",
-        "answer_3": "نظام الند للند ",
-        "answer_4": "<!DOCTYPE html>",
-        "right_answer": "نظام الند للند "
+        "title": "  في حاله اذا كان مجال الدومين للعنوان   Edu  ",
+        "answer_1": "  منظمه غير قابله للربح   ",
+        "answer_2": "  منظمه حكوميه  ",
+        "answer_3": "  منظمه تجاريه   ",
+        "answer_4": "  منظمه تعليميه  ",
+        "right_answer": "  منظمه تعليميه  "
     },
     {
-        "title": "يشير الجال .com",
-        "answer_1": "لاتوجد اجابه صحيحه ",
-        "answer_2": "شركه تجاريه ",
-        "answer_3": "منظمه تعليميه ",
-        "answer_4": "غير هادفه للربح",
-        "right_answer": "شركه تجاريه "
+        "title": " من الملفات الصوتيه والتي تتميز بجودتها ولكن تستهلك مساحه تخزينيه عاليه  ",
+        "answer_1": " VLC ",
+        "answer_2": " mp4 ",
+        "answer_3": " Flan",
+        "answer_4": "  WAV ",
+        "right_answer": "  WAV "
     },
     {
-        "title": "من مخرجات كارت connectors ويعمل مع الكابلات المحوريه الرفيعه للشبكه",
-        "answer_1": "ftb",
-        "answer_2": "bnc",
-        "answer_3": "ibx",
-        "answer_4": "All Is Right",
-        "right_answer": "bnc"
+        "title": " لجعل المحاذاه العموديه داخل خليه الجدول تاخذ قيمه top نستخدم خاصيه   ",
+        "answer_1": " align ",
+        "answer_2": " cellspace ",
+        "answer_3": " Valign",
+        "answer_4": " rowspan  ",
+        "right_answer": " Valign"
     },
     {
-        "title": " متصفح نصي ويستخدم لعرض النصوص فقط ",
-        "answer_1": "notepad",
-        "answer_2": "netspace",
-        "answer_3": "firefox",
-        "answer_4": "iynx",
-        "right_answer": "firefox"
+        "title": " جميع مايلي من امثله التطبيقات الحيه للوسائط المتعدده التعليميه اليوم ماعدا  ",
+        "answer_1": " عقد المؤتمرات بواسطه الكمبيوتر  ",
+        "answer_2": " مؤتمرات الفيديو ",
+        "answer_3": " المؤتمرات الصوتيه  ",
+        "answer_4": "  عقد المقابلات الشخصيه ",
+        "right_answer": "  عقد المقابلات الشخصيه "
     },
     {
-        "title": " <li> يستخدم ل",
-        "answer_1": "لاضافه عنصر داخل القائمه المتسلسله او غير المتسلسله",
-        "answer_2": "لاضافه عنصر داخل قائمه غير المتسلسله",
-        "answer_3": " لاضافه عنصر داخل قائمه التعريف ",
-        "answer_4": "لاضافه عنصر داخل القائمه المتسلسله   فقط",
-        "right_answer": "لاضافه عنصر داخل القائمه المتسلسله او غير المتسلسله"
+        "title": " متصفحات نصيه تستخدم لعرض النصوص فقط ",
+        "answer_1": " Netscape navigator ",
+        "answer_2": " متصفح lynx ",
+        "answer_3": "Internet explorer ",
+        "answer_4": " Opera mini Browser  ",
+        "right_answer": " متصفح lynx "
     },
     {
-        "title": "لجعل الصوت في الخلفيه نستخدم ",
-        "answer_1": "<sound src>",
-        "answer_2": "<h1>",
-        "answer_3": "<img>",
-        "answer_4": "<bgsound>",
-        "right_answer": "<bgsound>"
+        "title": " لجعل الصوت يعمل كخلفيه للمستند نستخدم  ",
+        "answer_1": " <sound> ",
+        "answer_2": " <bgsound> ",
+        "answer_3": " autoplay",
+        "answer_4": " startTime  ",
+        "right_answer": " <bgsound> "
     },
     {
-        "title": "ماهو تنفيذ الكود التالي <font face='arial, ' size='2' color'#000ff>'",
-        "answer_1": " خط النص الاساسي من نوع system ui وبحجم4 وبالون الازرق",
-        "answer_2": " خط النص الاساسي من نوع Arial وبحجم2 وبالون الاحمر",
-        "answer_3": " خط النص الاساسي من نوع Arial وبحجم2 وبالون الازرق",
-        "answer_4": " برامج التطبيقات ",
-        "right_answer": " خط النص الاساسي من نوع Arial وبحجم2 وبالون الازرق"
+        "title": " لادراج الصوت داخل صفحه الويب نستخدم؟ ",
+        "answer_1": " <sound> ",
+        "answer_2": " <Embed> ",
+        "answer_3": " <bgsound>",
+        "answer_4": " <bgcolor>  ",
+        "right_answer": " <Embed> "
     },
     {
-        "title": "اكبر الخطوط في الheading",
-        "answer_1": "<h1>",
-        "answer_2": "<head>",
-        "answer_3": "<h2>",
-        "answer_4": "<h3>",
-        "right_answer": "<h1>"
+        "title": " جهاز يستخدم لربط مجموعه من الحاسبات موجوده في شبكه محليه LAN \nمع مجموعه اخري في شبكه محليه اخري ويكون ذلك داخل شبكه موسعه  ",
+        "answer_1": " Hub ",
+        "answer_2": " Router ",
+        "answer_3": " Bridge",
+        "answer_4": "  modem ",
+        "right_answer": " Router "
     },
     {
-        "title": "hyber text markup languague",
-        "answer_1": "HTML",
-        "answer_2": "Css",
-        "answer_3": "C++",
-        "answer_4": "Node.Js",
-        "right_answer": "HTML"
+        "title": " في حاله البحث عن الكلمتين معا داخل محركات البحث نستخدم المعامل المنطقي  ",
+        "answer_1": " Or  ",
+        "answer_2": " NAND ",
+        "answer_3": "NOR ",
+        "answer_4": " AND  ",
+        "right_answer": " AND  "
     },
     {
-        "title": "Cascading Style sheet هو اختصار ل",
-        "answer_1": "CSS",
-        "answer_2": "moudul",
-        "answer_3": "paper sheel",
-        "answer_4": "CS50",
-        "right_answer": "CSS"
+        "title": " لتغيير لون النص من خلال وسم الbody \n نستخدم الخاصيه  ",
+        "answer_1": " color ",
+        "answer_2": " text ",
+        "answer_3": " style",
+        "answer_4": "  font ",
+        "right_answer": " text "
     },
     {
-        "title": " 168.xxx.xxx.xxx",
-        "answer_1": "الفئه A",
-        "answer_2": "الفئه B",
-        "answer_3": "الفئه C",
-        "answer_4": "الفئه D",
-        "right_answer": "الفئه A"
+        "title": " هو جهاز ذو امكانيات عاليه يساعد في التحكم في عمليه المشاركه للاجهزه والصلاحيات للمستخدمين داخل الشبكه ",
+        "answer_1": " clinet ",
+        "answer_2": " server ",
+        "answer_3": " hub",
+        "answer_4": "  Peer To Peer ",
+        "right_answer": " server "
     },
     {
-        "title": "لاغلاق الوسم يتم استخدام ",
-        "answer_1": "/",
-        "answer_2": "{}",
-        "answer_3": "#",
-        "answer_4": "<>",
-        "right_answer": "/"
+        "title": " تتضمن الوسائط المتعدده....... في العرض ",
+        "answer_1": " النص المكتوب مع الصوت المسموع  ",
+        "answer_2": " الصور الثابته والصور المتحركه  ",
+        "answer_3": " النص المكتوب مع الفيديو",
+        "answer_4": " جميع الاجابات صحيحه   ",
+        "right_answer": " جميع الاجابات صحيحه   "
     },
     {
-        "title": "يتم حفظ ملف ال html بامتداد",
-        "answer_1": ".html",
-        "answer_2": ".css",
-        "answer_3": ".js",
-        "answer_4": ".ajax",
-        "right_answer": ".html"
+        "title": " من مخارج كارت الشبكه \n connectors \n ويستخدم مع الكابلات المحوريه الرفيعه  ",
+        "answer_1": " LPX ",
+        "answer_2": " BNC ",
+        "answer_3": " RG6 ",
+        "answer_4": " Netx  ",
+        "right_answer": " BNC "
     },
     {
-        "title": "اي من الاكواد التاليه يستخدم لعمل METكعنوان للصفحه ",
-        "answer_1": "<html>MET</html>",
-        "answer_2": "<html><title>MET</title></html>",
-        "answer_3": "<title>MET</title>",
-        "answer_4": "جميع الاجابات صحيحه",
-        "right_answer": "<html><title>MET</title></html>"
+        "title": " امتداد ملف فيديو ابتكرته شركه \n Apple \n ويستخدم برنامج \n Quick Time لتشغيله ",
+        "answer_1": " AVI ",
+        "answer_2": " MOV ",
+        "answer_3": " FLV",
+        "answer_4": "  MP4 ",
+        "right_answer": " MOV "
     },
     {
-        "title": "من خصائص ال <body> لعمل خلفيه ",
-        "answer_1": "bgcolor",
-        "answer_2": "background",
-        "answer_3": "img",
-        "answer_4": "title",
-        "right_answer": "bgcolor"
+        "title": " جهاز يستخدم للربط بين شبكتين من شبكات الحاسب لتصبح شبكه اكبر  ",
+        "answer_1": " Github ",
+        "answer_2": " Bridge ",
+        "answer_3": " Router",
+        "answer_4": "  LAN ",
+        "right_answer": " Bridge "
     }
-
 ]
