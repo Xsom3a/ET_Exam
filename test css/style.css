@@ -8,6 +8,11 @@
     -webkit-backface-visibility: hidden;
 } */
 
+
+/* a {
+    color: #fff;
+} */
+
 .back {
     float: left;
     width: 100%;
@@ -237,6 +242,29 @@
     color: #fff;
     letter-spacing: 1px;
     text-transform: uppercase;
+}
+
+
+/* a {
+    color: #efefef;
+    text-decoration: none;
+    font-size: 10px;
+} */
+
+.btn-primary {
+    color: rgb(220, 218, 216);
+    background-color: rgb(71, 117, 168);
+    border-color: rgb(71, 117, 168);
+}
+
+.btn-primary a {
+    color: rgb(220, 218, 216);
+    font-size: 15px;
+}
+
+.btn-primary a :hover {
+    color: rgb(220, 218, 216);
+    border-radius: 2rem;
 }
 
 
