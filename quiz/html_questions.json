@@ -1,115 +1,121 @@
 [{
-        "title": "أنواع متاجر التجزئة وفقا لطريقه  التشغيل",
-        "answer_1": "متاجر السلسة",
-        "answer_2": "متاجر السوبر ماركت",
-        "answer_3": "متاجر  البيع بالخصم",
-        "answer_4": "كل ما سبق",
-        "right_answer": "كل ما سبق"
+        "title": "Absolute advantage :- In international trade theory a country which has an  absolute advantage in producing a good is able to produce that good more efficiently (……………………..) than any other country",
+        "answer_1": "Less output per unit of input",
+        "answer_2": "Equal output per unit of input ",
+        "answer_3": "More  output per unit of input",
+        "answer_4": "comparative advantage ",
+        "right_answer": "More  output per unit of input"
     },
     {
-        "title": " كل ما يلي من أنواع تجارة الجملة ماعدا ",
-        "answer_1": "متاجر الجملة ذات الخدمات المتكاملة",
-        "answer_2": "متاجر الجملة المحددة",
-        "answer_3": "متاجر السلسة ",
-        "answer_4": "متاجر جمله التي تبيع بالنقد",
-        "right_answer": "متاجر السلسة "
-    }, {
-        "title": "كل  ما يلي من أنواع الوكلاء ماعد",
-        "answer_1": "السمسار",
-        "answer_2": "الموزعون بالعمولة",
-        "answer_3": "بيوت المزادات المزادات",
-        "answer_4": "وكلاء التسويق",
-        "right_answer": "وكلاء التسويق"
-    }, {
-        "title": "يمكن تقسيم الاهداف الاساسية للبيع الشخصى الى ثلاثه اهداف منها",
-        "answer_1": "ايجاد وتحديد العملاء المرتقبين",
-        "answer_2": "اداره نشاط البيع اداره جيدة",
-        "answer_3": "فنون البيع",
-        "answer_4": "اداره شئون رجال البيع",
-        "right_answer": "ايجاد وتحديد العملاء المرتقبين"
-    }, {
-        "title": "احدى وظائف التسويق العامه والمزيج الترويجى خاصه واداه من ادواتة الهامه التى تساهم فى تحقيق اهداف الخطه التسويقيه",
-        "answer_1": "الاعلان",
-        "answer_2": "الموزعون بالعمولة",
-        "answer_3": "بيوت المزادات",
-        "answer_4": "وكالةالتسوٌيق  ",
-        "right_answer": "الاعلان"
-    }, {
-        "title": "من العوامل التًى تقوم علٌها الاعلان الرشٌد ",
-        "answer_1": "الدراسات والبحوث السابقة التًى تستند الٌها تخطٌط وتصمٌم وتوجٌه الاعلان ",
-        "answer_2": "التخطٌط السلٌم للحمالت االعالنٌة من ناحٌة التكوٌن والنوع والحجم ",
-        "answer_3": "اختٌار وسٌلة النشر والاعلان السلٌم بناء على توافر البٌانات",
-        "answer_4": "جميع الاجابات صحيحة",
-        "right_answer": "جميع الاجابات صحيحة"
-    }, {
-        "title": "من وظائف تجارة التجزئة بالنسبٌة لتاجر الجملة ",
-        "answer_1": "الخصائص السوق",
-        "answer_2": "استراتٌجٌة المزٌيج التسوٌيققً المستخدمة",
-        "answer_3": "طبٌعة السلع والخدمات المنتجة",
-        "answer_4": "تقدٌر حاجات المستهلك للسلع والخدمات وقتا ",
-        "right_answer": "تقدٌر حاجات المستهلك للسلع والخدمات وقتا "
-    }, {
-        "title": " يعنى  تخفٌض فً السعر مقابل دفع قٌمة الفاتورة أو من خالل فترة زمانٌة محددة ومن أكثر من الشروط  الخصم النقدي شٌ وعا ",
-        "answer_1": "خصم النقدي",
-        "answer_2": "خصم السعر ",
-        "answer_3": "كل ما سبق",
-        "answer_4": "خصم مضاف",
-        "right_answer": "خصم النقدي"
-    }, {
-        "title": "من أهم وظائف منافذ التوزٌع ",
-        "answer_1": "تجزئه كمٌيات السلع الى كمٌيات أصغر",
-        "answer_2": "التوزٌع المادي",
-        "answer_3": "التسهٌيلات التجارٌية",
-        "answer_4": "جميع الاجابات خاطئه",
-        "right_answer": "تجزئه كمٌيات السلع الى كمٌيات أصغر"
-    }, {
-        "title": "هناك تالث أنواع من الألنشطة ضرورٌية لبناء المزٌيج التوزٌع",
-        "answer_1": "علاقات التوزيع",
-        "answer_2": "التوزيع المادى",
-        "answer_3": "التسهيلات التجاريه",
-        "answer_4": "جميع ما سبق",
-        "right_answer": "جميع ما سبق"
-    }, {
-        "title": "وبمقتضى ذلك السٌياسة ٌتم تقسٌم السوق الى شرائح تسوٌيقه كل منها ٌيقبل مستوى جودة المنتج ",
-        "answer_1": "سياسه لتغلغل الى السوق",
-        "answer_2": "مستوى التكنولجيا المستخدم",
-        "answer_3": "سياسه قشط السوق",
-        "answer_4": "لا توجد اجابة",
-        "right_answer": "  سياسه لتغلغل الى السوق"
-    }, {
-        "title": "انواع الوكلاء",
-        "answer_1": "السمسار",
-        "answer_2": "الموزعون بالعموله ",
-        "answer_3": "وكلاء المنتج",
-        "answer_4": "جميع الاجابات صحيحه",
-        "right_answer": "جميع الاجابات صحيحه"
-    }, {
-        "title": "من اهم ادوات تنشيط المبيعات ماعدا مايلى",
-        "answer_1": "الكوبونات",
-        "answer_2": "السحب",
-        "answer_3": "العينات",
-        "answer_4": "الاعلان",
-        "right_answer": "الاعلان"
-    }, {
-        "title": "من السياسات المتعلقه باختلاف السعر",
-        "answer_1": "سياسه السعر المتغير",
-        "answer_2": "سياسه السعر الغير متغير",
-        "answer_3": "سياسه السعر الافضل",
-        "answer_4": "ا/ب معا",
-        "right_answer": "ا/ب معا"
-    }, {
-        "title": "تتمثل ابعاد التسويق فى ........انماط",
-        "answer_1": "7",
-        "answer_2": "8",
-        "answer_3": "5",
-        "answer_4": "6",
-        "right_answer": "8"
-    }, {
-        "title": " من عناصر رئسية ......يتكون المزيج الترويجى ",
-        "answer_1": "2",
-        "answer_2": "7",
-        "answer_3": "5",
-        "answer_4": "4",
-        "right_answer": "4"
+        "title": "Absolute poverty :- someone is absolutely poor if their income does not allow them to consume enough to purchase ……………bundle of consumer goods and services ",
+        "answer_1": "Maximum",
+        "answer_2": "a minimum",
+        "answer_3": "equal",
+        "answer_4": "more than",
+        "right_answer": "a minimum"
+    },
+    {
+        "title": " ………,………….,…………. A minimum bundle of consumer goods and services  including ",
+        "answer_1": "output –input , and shelter",
+        "answer_2": "living -  income and food  ",
+        "answer_3": "shelter , food and clothing",
+        "answer_4": " All answer true",
+        "right_answer": "shelter , food and clothing"
+    },
+    {
+        "title": "A person who buys or sells goods on behalf of a buyer or seller :………………",
+        "answer_1": "Buyer",
+        "answer_2": "Consumer",
+        "answer_3": "Seller",
+        "answer_4": "Agent",
+        "right_answer": "Agent"
+    },
+    {
+        "title": "Aggregates demand :- it is the total of all desired expenditure at any time buy all groups in the economy .The main groups who spend are ",
+        "answer_1": "consumers consumptions",
+        "answer_2": "firms(who spend on investment ",
+        "answer_3": "government expenditure                                                        ",
+        "answer_4": "All answer True",
+        "right_answer": "All answer True"
+    },
+    {
+        "title": "…………………is the total quantity supplied at every price level . It is the total of all goods and services produced in an economy in a given time perlod ",
+        "answer_1": "Demand",
+        "answer_2": "Supply",
+        "answer_3": "Aggregate Supply",
+        "answer_4": "No correct answer",
+        "right_answer": "No correct answer"
+    },
+    {
+        "title": "Allocation of resources :- ………………..Concerning the uses of the factors of production ",
+        "answer_1": "Government",
+        "answer_2": "investment",
+        "answer_3": "an economy",
+        "answer_4": "Economic decisions",
+        "right_answer": "Economic decisions"
+    },
+    {
+        "title": "Balance budget :-………………(such as for a government ) in which revenues perfectly offset expenditures ",
+        "answer_1": "monthly",
+        "answer_2": " An annual budget",
+        "answer_3": "weekly",
+        "answer_4": "No correct answer",
+        "right_answer": " An annual budget"
+    },
+    {
+        "title": " A record of all transactions involving  a country’s exports and import of goods and services , borrowing and lending ",
+        "answer_1": "balance of payments                                                                                       ",
+        "answer_2": "balance  of trade",
+        "answer_3": "balance of payments accounts",
+        "answer_4": "all answers True ",
+        "right_answer": "balance of payments accounts"
+    },
+    {
+        "title": "In calculating price indexes , values in the current year are compared to values in some arbitrarily chosen earlier .",
+        "answer_1": "poverty ",
+        "answer_2": "base year",
+        "answer_3": "An annual budget",
+        "answer_4": "balance of trade ",
+        "right_answer": "balance of trade "
+    },
+    {
+        "title": "Budget deficit :-…………………………………………………………………..",
+        "answer_1": "government expenditure less than government revenue ",
+        "answer_2": "government expenditure  equal government revenue",
+        "answer_3": "government expenditure  greater than government revenue ",
+        "answer_4": "government expenditure greater than government revenue",
+        "right_answer": "government expenditure  greater than government revenue "
+    },
+    {
+        "title": "Balance of payments accounts :- A record of all transactions involving a country`s ………………",
+        "answer_1": "Borrowing",
+        "answer_2": "Exports and imports of goods and services ",
+        "answer_3": "investment",
+        "answer_4": "All answer True ",
+        "right_answer": "Exports and imports of goods and services "
+    },
+    {
+        "title": "Balance of trade :- A record of country`s ……………………………………………….",
+        "answer_1": "Borrowing and lending ",
+        "answer_2": "Expenditure",
+        "answer_3": "Exports and imports of goods and services",
+        "answer_4": "No correct answer",
+        "right_answer": "Exports and imports of goods and services"
+    },
+    {
+        "title": "………….The total cost of production of a commodity incurred by a firm during a period divided by the number of it`s unit of output",
+        "answer_1": "Average cost",
+        "answer_2": "Total cost",
+        "answer_3": "The excess cost",
+        "answer_4": "No correct answer ",
+        "right_answer": "Total cost"
+    },
+    {
+        "title": "Balance of trade :-…………………………………………………………………",
+        "answer_1": " A record of All transactions involving a country’s exports and imports of goods and services , borrowing and landing ",
+        "answer_2": "A record of  a country’s exports and imports of goods and services ",
+        "answer_3": "The record of a country’s international financial transactions .",
+        "answer_4": "No answer correct",
+        "right_answer": "The record of a country’s international financial transactions ."
     }
 ]
