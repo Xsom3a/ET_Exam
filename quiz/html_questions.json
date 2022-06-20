@@ -1,121 +1,149 @@
 [{
-        "title": "Absolute advantage :- In international trade theory a country which has an  absolute advantage in producing a good is able to produce that good more efficiently (……………………..) than any other country",
-        "answer_1": "Less output per unit of input",
-        "answer_2": "Equal output per unit of input ",
-        "answer_3": "More  output per unit of input",
-        "answer_4": "comparative advantage ",
-        "right_answer": "More  output per unit of input"
+        "title": "Balance surplus :-………………………………………………",
+        "answer_1": "Government expenditure greater than government revenue ",
+        "answer_2": "Government expenditure less than government revenue",
+        "answer_3": "Government expenditure greater than expenditure ",
+        "answer_4": "Government expenditure equal government revenue",
+        "right_answer": "Government expenditure greater than expenditure "
     },
     {
-        "title": "Absolute poverty :- someone is absolutely poor if their income does not allow them to consume enough to purchase ……………bundle of consumer goods and services ",
-        "answer_1": "Maximum",
-        "answer_2": "a minimum",
-        "answer_3": "equal",
-        "answer_4": "more than",
-        "right_answer": "a minimum"
+        "title": "Balance budget :-………………………………………………",
+        "answer_1": "Government expenditure less than government revenue",
+        "answer_2": "Government expenditure greater than government revenue ",
+        "answer_3": "Government expenditure equal government revenue",
+        "answer_4": "Government expenditure greater than expenditure ",
+        "right_answer": "Government expenditure equal government revenue"
     },
     {
-        "title": " ………,………….,…………. A minimum bundle of consumer goods and services  including ",
-        "answer_1": "output –input , and shelter",
-        "answer_2": "living -  income and food  ",
-        "answer_3": "shelter , food and clothing",
-        "answer_4": " All answer true",
-        "right_answer": "shelter , food and clothing"
-    },
-    {
-        "title": "A person who buys or sells goods on behalf of a buyer or seller :………………",
-        "answer_1": "Buyer",
-        "answer_2": "Consumer",
-        "answer_3": "Seller",
-        "answer_4": "Agent",
-        "right_answer": "Agent"
-    },
-    {
-        "title": "Aggregates demand :- it is the total of all desired expenditure at any time buy all groups in the economy .The main groups who spend are ",
-        "answer_1": "consumers consumptions",
-        "answer_2": "firms(who spend on investment ",
-        "answer_3": "government expenditure                                                        ",
-        "answer_4": "All answer True",
-        "right_answer": "All answer True"
-    },
-    {
-        "title": "…………………is the total quantity supplied at every price level . It is the total of all goods and services produced in an economy in a given time perlod ",
-        "answer_1": "Demand",
-        "answer_2": "Supply",
-        "answer_3": "Aggregate Supply",
-        "answer_4": "No correct answer",
-        "right_answer": "No correct answer"
-    },
-    {
-        "title": "Allocation of resources :- ………………..Concerning the uses of the factors of production ",
-        "answer_1": "Government",
-        "answer_2": "investment",
-        "answer_3": "an economy",
-        "answer_4": "Economic decisions",
-        "right_answer": "Economic decisions"
-    },
-    {
-        "title": "Balance budget :-………………(such as for a government ) in which revenues perfectly offset expenditures ",
-        "answer_1": "monthly",
-        "answer_2": " An annual budget",
-        "answer_3": "weekly",
-        "answer_4": "No correct answer",
-        "right_answer": " An annual budget"
-    },
-    {
-        "title": " A record of all transactions involving  a country’s exports and import of goods and services , borrowing and lending ",
-        "answer_1": "balance of payments                                                                                       ",
-        "answer_2": "balance  of trade",
-        "answer_3": "balance of payments accounts",
-        "answer_4": "all answers True ",
-        "right_answer": "balance of payments accounts"
-    },
-    {
-        "title": "In calculating price indexes , values in the current year are compared to values in some arbitrarily chosen earlier .",
-        "answer_1": "poverty ",
-        "answer_2": "base year",
-        "answer_3": "An annual budget",
-        "answer_4": "balance of trade ",
-        "right_answer": "balance of trade "
-    },
-    {
-        "title": "Budget deficit :-…………………………………………………………………..",
-        "answer_1": "government expenditure less than government revenue ",
-        "answer_2": "government expenditure  equal government revenue",
-        "answer_3": "government expenditure  greater than government revenue ",
-        "answer_4": "government expenditure greater than government revenue",
-        "right_answer": "government expenditure  greater than government revenue "
-    },
-    {
-        "title": "Balance of payments accounts :- A record of all transactions involving a country`s ………………",
-        "answer_1": "Borrowing",
-        "answer_2": "Exports and imports of goods and services ",
-        "answer_3": "investment",
-        "answer_4": "All answer True ",
-        "right_answer": "Exports and imports of goods and services "
-    },
-    {
-        "title": "Balance of trade :- A record of country`s ……………………………………………….",
-        "answer_1": "Borrowing and lending ",
-        "answer_2": "Expenditure",
-        "answer_3": "Exports and imports of goods and services",
-        "answer_4": "No correct answer",
-        "right_answer": "Exports and imports of goods and services"
-    },
-    {
-        "title": "………….The total cost of production of a commodity incurred by a firm during a period divided by the number of it`s unit of output",
-        "answer_1": "Average cost",
-        "answer_2": "Total cost",
-        "answer_3": "The excess cost",
+        "title": "Budget deficit opposite ……………..",
+        "answer_1": "Base year",
+        "answer_2": "Balance budget",
+        "answer_3": "Budget surplus",
         "answer_4": "No correct answer ",
-        "right_answer": "Total cost"
+        "right_answer": "Budget surplus"
     },
     {
-        "title": "Balance of trade :-…………………………………………………………………",
-        "answer_1": " A record of All transactions involving a country’s exports and imports of goods and services , borrowing and landing ",
-        "answer_2": "A record of  a country’s exports and imports of goods and services ",
-        "answer_3": "The record of a country’s international financial transactions .",
-        "answer_4": "No answer correct",
-        "right_answer": "The record of a country’s international financial transactions ."
+        "title": "Capitalism :-  An economic system in which privately - owned  companies and businesses undertake most economic activity (with the goal of generating ……………….)",
+        "answer_1": " wages",
+        "answer_2": "salaries",
+        "answer_3": "privateer profit",
+        "answer_4": "public profit",
+        "right_answer": "public profit"
+    },
+    {
+        "title": "Central bank:-A ……………… financial institutions , usually established at the national level and controlled by a national government ",
+        "answer_1": "private",
+        "answer_2": "public",
+        "answer_3": "mixed",
+        "answer_4": "commercial",
+        "right_answer": "public"
+    },
+    {
+        "title": "Central bank , usually established at the national level and controlled by a national government , which sets :-…………………………………………………………………………………………",
+        "answer_1": "short – term interest rates",
+        "answer_2": "lends money to commercial banks and government ",
+        "answer_3": "overseas the operation of the credit system",
+        "answer_4": "All answers correct ",
+        "right_answer": "All answers correct "
+    },
+    {
+        "title": "Central planning : an economic system is which crucial decision regarding …………..,……….. Interest rates , exchange rates , and price determination ",
+        "answer_1": "commercial , investment   ",
+        "answer_2": "investment , consumption",
+        "answer_3": "goods , services",
+        "answer_4": "commercial banks , services",
+        "right_answer": "investment , consumption"
+    },
+    {
+        "title": "",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": ""
+    },
+    {
+        "title": " commodity : Anything that Is bought and sold for money is a  commodity including :- …………………….",
+        "answer_1": " produced  goals  and services",
+        "answer_2": "inputs(such capital or row material )",
+        "answer_3": "labour  ",
+        "answer_4": "All answers true",
+        "right_answer": "All answers true"
+    },
+    {
+        "title": "some central banks also have responsibility for regulating the activities :- ",
+        "answer_1": "firms",
+        "answer_2": "companies",
+        "answer_3": "no correct answer",
+        "answer_4": "financial institutions , private banks",
+        "right_answer": "financial institutions , private banks"
+    },
+    {
+        "title": "Capitalism : An economic system in which most work is performed by employed workers who are paid",
+        "answer_1": " work",
+        "answer_2": " goods",
+        "answer_3": "free work",
+        "answer_4": "Wages",
+        "right_answer": "Wages"
+    },
+    {
+        "title": "Central planning : An economic system opposite …………………………………….",
+        "answer_1": "no answer correct",
+        "answer_2": "exchange rates",
+        "answer_3": "Government ",
+        "answer_4": "market forces",
+        "right_answer": "market forces"
+    },
+    {
+        "title": "Deficit :- When ……………………………………..spends more in a given period of time than they generate in income , incur a deficit ",
+        "answer_1": "A government",
+        "answer_2": "business  ",
+        "answer_3": "household  ",
+        "answer_4": "all answers correct ",
+        "right_answer": "all answers correct "
+    },
+    {
+        "title": "A deficit  must be financed with ………………………………",
+        "answer_1": "Deflation",
+        "answer_2": "Investment",
+        "answer_3": "new borrowing",
+        "answer_4": "inflation",
+        "right_answer": "new borrowing"
+    },
+    {
+        "title": "………………………………………..:- A deficit in the overall average level of prices ",
+        "answer_1": "No answer correct ",
+        "answer_2": "Deficit",
+        "answer_3": "Deflation",
+        "answer_4": " inflation",
+        "right_answer": " inflation"
+    },
+    {
+        "title": "Deflation is the opposite of ………………..",
+        "answer_1": "surplus ",
+        "answer_2": "inflation  ",
+        "answer_3": "Base year",
+        "answer_4": "exchange rates",
+        "right_answer": "exchange rates"
+    }, {
+        "title": "Political economy mean`s the management of the wealth of the state",
+        "answer_1": "True ",
+        "answer_2": "False",
+        "right_answer": "False"
+    }, {
+        "title": "Income of  the buyer one of many important determinants of the demand for a commodity",
+        "answer_1": "False",
+        "answer_2": "True",
+        "right_answer": "True"
+    }, {
+        "title": "Adam smith defined the economy as science of choice making",
+        "answer_1": "False",
+        "answer_2": "True",
+        "right_answer": "True"
+    }, {
+        "title": "In macroeconomic study we must be know the economic behaviour of the large aggregates",
+        "answer_1": "False",
+        "answer_2": "True",
+        "right_answer": "True"
     }
 ]
